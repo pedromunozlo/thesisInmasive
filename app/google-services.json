@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "843403613042",
+    "project_id": "thesisinmasive",
+    "storage_bucket": "thesisinmasive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843403613042:android:b35f77d0bb11bdf3e803eb",
+        "android_client_info": {
+          "package_name": "com.trabajodegrados.inmasivefinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843403613042-hnc9v92puoerjscblgcs28lokka6pgdr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trabajodegrado.thesisinmasive",
+            "certificate_hash": "e9ba157bf04547a8c2a734416444f4c12892f08f"
+          }
+        },
+        {
+          "client_id": "843403613042-3l99fnui261qib55o6m0d8odu6al5vp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqZsCPkU6ojK20MgkxDSJnDIjJ6QuAwDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843403613042-3l99fnui261qib55o6m0d8odu6al5vp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
